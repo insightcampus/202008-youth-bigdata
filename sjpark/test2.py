@@ -1,3 +1,2 @@
 #테스트
-print('dd') git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+print('dd')
