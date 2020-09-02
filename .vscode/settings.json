@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
+    "python.pythonPath": "/opt/anaconda3/envs/py36/bin/python"
+=======
     "python.pythonPath": "C:\\Users\\ASIA\\Anaconda3\\envs\\sjpark_environment\\python.exe"
+>>>>>>> 25c13054074c8d288ea0436f978c084699efaff0
 }
